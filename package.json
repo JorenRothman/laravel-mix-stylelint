@@ -1,6 +1,6 @@
 {
-  "name": "laravel-mix-stylelint",
-  "version": "1.0.0",
+  "name": "@jorenrothman/laravel-mix-stylelint",
+  "version": "1.0.1",
   "description": "",
   "homepage": "https://github.com/NuckFuggets/laravel-mix-stylelint",
   "main": "index.js",

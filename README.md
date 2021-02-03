@@ -7,7 +7,7 @@ This extension provides instant Stylelint support to your Mix (v6.0.11 and up) b
 First, install the extension.
 
 ```
-npm install laravel-mix-stylelint --save-dev
+npm install @jorenrothman/laravel-mix-stylelint --save-dev
 ```
 
 Then, require it within your `webpack.mix.js` file, like so:
